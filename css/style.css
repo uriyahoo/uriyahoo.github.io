@@ -1,0 +1,28 @@
+body{
+background: #F3E2A9;
+width: 1000px;
+margin: 0 auto;
+}
+figure{
+width: 200px;
+height: 200px;
+display: flex;
+justify-content: center;
+align-items: center;
+background: blue;
+float: left;
+transition: 3s;
+margin: 0;
+}
+#titulo{
+width: 800px;
+height: 100px;
+background: cyan;
+float: left;
+}
+#subtitulo{
+width: 800px;
+height: 100px;
+background: #81DAF5;
+float: left;
+}
